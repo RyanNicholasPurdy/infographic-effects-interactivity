@@ -17,128 +17,128 @@ var $Graph = $('.graph');
 
 $LongTermMemory.waypoint(function (direction) {
   if (direction == 'down') {
-    $LongTermMemory.addClass('opacity')
+    $LongTermMemory.addClass('opacity');
   } else {
-    $LongTermMemory.removeClass('opacity')
+    $LongTermMemory.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Counting.waypoint(function (direction) {
   if (direction == 'down') {
-    $Counting.addClass('opacity')
+    $Counting.addClass('opacity');
   } else {
-    $Counting.removeClass('opacity')
+    $Counting.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Awareness.waypoint(function (direction) {
   if (direction == 'down') {
-    $Awareness.addClass('opacity')
+    $Awareness.addClass('opacity');
   } else {
-    $Awareness.removeClass('opacity')
+    $Awareness.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Culture.waypoint(function (direction) {
   if (direction == 'down') {
-    $Culture.addClass('opacity')
+    $Culture.addClass('opacity');
   } else {
-    $Culture.removeClass('opacity')
+    $Culture.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Emotions.waypoint(function (direction) {
   if (direction == 'down') {
-    $Emotions.addClass('opacity')
+    $Emotions.addClass('opacity');
   } else {
-    $Emotions.removeClass('opacity')
+    $Emotions.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Communication.waypoint(function (direction) {
   if (direction == 'down') {
-    $Communication.addClass('opacity')
+    $Communication.addClass('opacity');
   } else {
-    $Communication.removeClass('opacity')
+    $Communication.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Humor.waypoint(function (direction) {
   if (direction == 'down') {
-    $Humor.addClass('opacity')
+    $Humor.addClass('opacity');
   } else {
-    $Humor.removeClass('opacity')
+    $Humor.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Construction.waypoint(function (direction) {
   if (direction == 'down') {
-    $Construction.addClass('opacity')
+    $Construction.addClass('opacity');
   } else {
-    $Construction.removeClass('opacity')
+    $Construction.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Speed.waypoint(function (direction) {
   if (direction == 'down') {
-    $Speed.addClass('opacity')
+    $Speed.addClass('opacity');
   } else {
-    $Speed.removeClass('opacity')
+    $Speed.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Eyesight.waypoint(function (direction) {
   if (direction == 'down') {
-    $Eyesight.addClass('opacity')
+    $Eyesight.addClass('opacity');
   } else {
-    $Eyesight.removeClass('opacity')
+    $Eyesight.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Hearing.waypoint(function (direction) {
   if (direction == 'down') {
-    $Hearing.addClass('opacity')
+    $Hearing.addClass('opacity');
   } else {
-    $Hearing.removeClass('opacity')
+    $Hearing.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Lifespan.waypoint(function (direction) {
   if (direction == 'down') {
-    $Lifespan.addClass('opacity')
+    $Lifespan.addClass('opacity');
   } else {
-    $Lifespan.removeClass('opacity')
+    $Lifespan.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Anisize.waypoint(function (direction) {
   if (direction == 'down') {
-    $Anisize.addClass('opacity')
+    $Anisize.addClass('opacity');
   } else {
-    $Anisize.removeClass('opacity')
+    $Anisize.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Distance.waypoint(function (direction) {
   if (direction == 'down') {
-    $Distance.addClass('opacity')
+    $Distance.addClass('opacity');
   } else {
-    $Distance.removeClass('opacity')
+    $Distance.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Biodiversity.waypoint(function (direction) {
   if (direction == 'down') {
-    $Biodiversity.addClass('opacity')
+    $Biodiversity.addClass('opacity');
   } else {
-    $Biodiversity.removeClass('opacity')
+    $Biodiversity.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
 
 $Graph.waypoint(function (direction) {
   if (direction == 'down') {
-    $Graph.addClass('opacity')
+    $Graph.addClass('opacity');
   } else {
-    $Graph.removeClass('opacity')
+    $Graph.removeClass('opacity');
   }
-}, { offset: '90%'} );
+}, {offset: '90%'});
