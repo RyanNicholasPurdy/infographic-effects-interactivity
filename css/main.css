@@ -29,6 +29,7 @@ html {
 }
 
 @keyframes hover-ani {
+
   0% {
     -webkit-transform: translateY(-16px);
     transform: translateY(-16px);
@@ -46,11 +47,13 @@ html {
 }
 
 @keyframes hover-ani-float {
+
   100% {
     -webkit-transform: translateY(-16px);
     transform: translateY(-16px);
   }
 }
+
 .hover-ani:hover, .hover-ani:focus, .hover-ani:active {
   -webkit-animation-name: hover-ani-float, hover-ani;
   animation-name: hover-ani-float, hover-ani;

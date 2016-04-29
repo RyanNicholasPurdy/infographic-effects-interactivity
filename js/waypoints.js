@@ -1,19 +1,19 @@
-var $LongTermMemory = $('.LongTermMemory');
-var $Counting = $('.Counting');
-var $Awareness = $('.Awareness');
-var $Culture = $('.Culture');
-var $Emotions = $('.Emotions');
-var $Communication = $('.Communication');
-var $Humor = $('.Humor');
-var $Construction = $('.Construction');
-var $Speed = $('.Speed');
-var $Eyesight = $('.Eyesight');
-var $Hearing = $('.Hearing');
-var $Lifespan = $('.Lifespan');
-var $Anisize = $('.Anisize');
-var $Distance = $('.Distance');
-var $Biodiversity = $('.Biodiversity');
-var $Graph = $('.Graph');
+var $LongTermMemory = $('.longtermmemory');
+var $Counting = $('.counting');
+var $Awareness = $('.awareness');
+var $Culture = $('.culture');
+var $Emotions = $('.emotions');
+var $Communication = $('.communication');
+var $Humor = $('.humor');
+var $Construction = $('.construction');
+var $Speed = $('.speed');
+var $Eyesight = $('.eyesight');
+var $Hearing = $('.hearing');
+var $Lifespan = $('.lifespan');
+var $Anisize = $('.anisize');
+var $Distance = $('.distance');
+var $Biodiversity = $('.biodiversity');
+var $Graph = $('.graph');
 
 $LongTermMemory.waypoint(function (direction) {
   if (direction == 'down') {
