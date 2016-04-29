@@ -1,1 +1,1 @@
-var $ThisIsLineFiller = $('.ThisIsLineFiller');
+var $placeholder = $('.placeholder');
